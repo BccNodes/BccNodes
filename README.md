@@ -41,9 +41,9 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <img height="40px" src="discord.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Discord</strong></span><br><br />
+            <span><strong>BccNodes Explorer</strong></span><br><br />
             <a href="https://discord.gg/sXPSXw8dUa" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="discord.png">
+            <img height="40px" src="exp.png">
             </td>
         </tr>
     </tbody>
