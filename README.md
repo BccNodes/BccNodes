@@ -49,3 +49,16 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
     </tbody>
 </table>
 
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Twitter</strong></span><br><br />
+            <a href="https://twitter.com/bccnodes" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="exp.png">
+            </td>
+           
+        </tr>
+    </tbody>
+</table>
+
