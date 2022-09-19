@@ -22,24 +22,24 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 - Android :robot:
 - Open source :octocat:
 
-## Get in touch :coffee:
+## Social Media / Contact
 
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Twitter</strong></span><br><br />
-            <a href="https://twitter.com/nodesblocks" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/bccnodes" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="twitter.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
-            <a href="https://nodesblocks.dev" target="_blank" rel="noopener noreferrer">
+            <a href="https://bccnodes.com/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="web.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
-            <a href="https://t.me/nodesblocks" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/sXPSXw8dUa" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="discord.png">
             </td>
         </tr>
