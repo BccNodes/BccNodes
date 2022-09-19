@@ -19,8 +19,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 ## Things I am passionate about
 
-- Android :robot:
-- Open source :octocat:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkcanode)](https://github.com/berkcanode/github-readme-stats)
 
 ## Social Media / Contact
 
