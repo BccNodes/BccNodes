@@ -1,6 +1,6 @@
 # Welcome to BccNodes :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="banner.png">
 
 <p align="center"> 
   Visitor count<br>
