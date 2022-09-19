@@ -9,9 +9,12 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm BccNodes. We provide reliable, professional validator service with best uptime and low commission rates. Our only aim is to provide you with perfect service with our 24/7 monitoring and highly protected servers. Some of the services we offer to projects and you;
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+1. We provide RPC, API, EXPLORER services for both Mainnets and TestNets.
+2. We offer IBC Relayer service on cosmos blockchains.
+3. I share the technical details of the projects and the curious ones on my blog in my local language.
+4. We provide moderator/ambassador services for projects and their communities
 
 
 ## Things I am passionate about
