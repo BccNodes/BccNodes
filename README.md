@@ -14,7 +14,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 1. We provide RPC, API, EXPLORER services for both Mainnets and TestNets.
 2. We offer IBC Relayer service on cosmos blockchains.
 3. I share the technical details of the projects and the curious ones on my blog in my local language.
-4. We provide moderator/ambassador services for projects and their communities
+4. We provide moderator/ambassador services for projects and their communities.
 
 
 ## Things I am passionate about
@@ -24,11 +24,27 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
-
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Twitter</strong></span><br><br />
+            <a href="https://twitter.com/nodesblocks" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="twitter.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Website</strong></span><br><br />
+            <a href="https://nodesblocks.dev" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="web.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Discord</strong></span><br><br />
+            <a href="https://t.me/nodesblocks" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src=discord.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
