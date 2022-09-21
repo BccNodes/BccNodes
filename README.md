@@ -30,17 +30,17 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <a href="https://twitter.com/bccnodes" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="twitter.png">
             </td>
-            <td width="130px" align="center">
+            <td width="300px" align="center">
             <span><strong>Website</strong></span><br><br />
             <a href="https://bccnodes.com/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="web.png">
             </td>
-            <td width="130px" align="center">
+            <td width="300px" align="center">
             <span><strong>Discord</strong></span><br><br />
             <a href="https://discord.gg/sXPSXw8dUa" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="discord.png">
             </td>
-            <td width="130px" align="center">
+            <td width="300px" align="center">
             <span><strong>BccNodes Explorer</strong></span><br><br />
             <a href="https://exp.bccnodes.com/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="exp (1).png">
