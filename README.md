@@ -43,7 +43,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <td width="300px" align="center">
             <span><strong>BccNodes Explorer</strong></span><br><br />
             <a href="https://exp.bccnodes.com/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="exp (1).png">
+            <img height="100px" src="exp (1).png">
             </td>
         </tr>
     </tbody>
