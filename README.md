@@ -1,9 +1,4 @@
-# Welcome to BccNodes <div class="bannertext" style="
-    font-size: 65px;
-    font-weight: 700;
-    color: #f2f2f2;
-    text-shadow: -3px -2px 20px #8dc3eb;
-"> BccNodes </div> :wave:
+# Welcome to BccNodes :wave:
 
 <img src="banner.png">
 
