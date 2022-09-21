@@ -18,7 +18,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 
 
-![BccNodes GitHub stats](https://github-readme-stats.vercel.app/api?username=berkcanode&show_icons=true&theme=dark)
+
 
 ## Social Media / Contact
 
