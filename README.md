@@ -22,7 +22,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 ## Social Media / Contact
 
-<table width="320px" align="center">
+<table width="500px" align="center">
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
