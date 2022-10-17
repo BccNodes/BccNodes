@@ -35,7 +35,6 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <a href="https://bccnodes.com/" target="_blank" rel="noopener noreferrer">
             <img height="70px" src="web.png">
             </td>
-            
             <td width="300px" align="center">
             <span><strong>BccNodes Explorer</strong></span><br><br />
             <a href="https://explorer.bccnodes.com/" target="_blank" rel="noopener noreferrer">
