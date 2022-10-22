@@ -18,46 +18,35 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 ## Inery Blockchain --------> level-2 Ambassador service
 
-Inery blockchain discord: 
-https://discord.com/invite/inery
-Inery blockchain website:
-https://inery.io/
+Inery blockchain discord: https://discord.com/invite/inery
+Inery blockchain website: https://inery.io/
 
     ## OKP4 Protocol --------> Moderator
 
-OKP4 Protocol discord: 
-https://discord.com/invite/okp4
-OKP4 Protocol website: 
-https://okp4.network/
+OKP4 Protocol discord: https://discord.com/invite/okp4
+OKP4 Protocol website: https://okp4.network/
 
 
      ## Minima project ----------> Global Moderator and also Grand minima Ambassador
 
-Minima project discord: 
-https://discord.gg/minima
-Minima project website: 
-https://minima.global/
+Minima project discord: https://discord.gg/minima
+Minima project website: https://minima.global/
 
      ## Stride project ----------> Community Star and also Ambassador
 
-Stride project discord: 
-https://discord.gg/2VmvNpzkrx
-Stride project website: 
-https://stride.zone/
+Stride project discord: https://discord.gg/2VmvNpzkrx
+Stride project website: https://stride.zone/
 
     ## Ollo Station project ----------> Heads of moderator
 
-Ollo Station project discord: 
-https://discord.gg/xthSr43Pb5
-Ollo Station project website: 
-https://station8.zone/
+Ollo Station project discord: https://discord.gg/xthSr43Pb5
+Ollo Station project website: https://station8.zone/
 
     ## Source Protocol project ----------> Community Helper (only me)
 
-Source Protocol project discord: 
-https://discord.gg/yJTGRFkV59
-Source Protocol project website: 
-https://www.sourceprotocol.io/
+Source Protocol project discord: https://discord.gg/yJTGRFkV59
+Source Protocol project website: https://www.sourceprotocol.io/ 
+
 
 
 
