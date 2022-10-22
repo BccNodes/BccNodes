@@ -16,7 +16,48 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
  3. We share the technical details and curiosities of the projects, weekly developments on our own twitter, telegram and medium channels and deliver the project to as wide a public as possible and create an informed society.
  4. We offer moderator/ambassador services for projects and their communities.
 
+## Inery Blockchain --------> level-2 Ambassador service
 
+Inery blockchain discord: 
+https://discord.com/invite/inery
+Inery blockchain website:
+https://inery.io/
+
+    ## OKP4 Protocol --------> Moderator
+
+OKP4 Protocol discord: 
+https://discord.com/invite/okp4
+OKP4 Protocol website: 
+https://okp4.network/
+
+
+     ## Minima project ----------> Global Moderator and also Grand minima Ambassador
+
+Minima project discord: 
+https://discord.gg/minima
+Minima project website: 
+https://minima.global/
+
+     ## Stride project ----------> Community Star and also Ambassador
+
+Stride project discord: 
+https://discord.gg/2VmvNpzkrx
+Stride project website: 
+https://stride.zone/
+
+    ## Ollo Station project ----------> Heads of moderator
+
+Ollo Station project discord: 
+https://discord.gg/xthSr43Pb5
+Ollo Station project website: 
+https://station8.zone/
+
+    ## Source Protocol project ----------> Community Helper (only me)
+
+Source Protocol project discord: 
+https://discord.gg/yJTGRFkV59
+Source Protocol project website: 
+https://www.sourceprotocol.io/
 
 
 
