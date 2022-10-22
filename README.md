@@ -11,7 +11,7 @@
 
 I'm BccNodes. We provide reliable, professional validator service with best uptime and low commission rates. Our only aim is to provide you with perfect service with our 24/7 monitoring and highly protected servers. Some of the services we offer to projects and you;
 
- 1..We offer RPC endpoints, API endpoints, Explorer, Discord Faucet Bot, installation articles services as technical topics for both Mainnets and Testnets.
+ 1. We offer RPC endpoints, API endpoints, Explorer, Discord Faucet Bot, installation articles services as technical topics for both Mainnets and Testnets.
  2. We offer IBC Relayer service from Cosmos blockchains.
  3. We share the technical details and curiosities of the projects, weekly developments on our own twitter, telegram and medium channels and deliver the project to as wide a public as possible and create an informed society.
  4. We offer moderator/ambassador services for projects and their communities.
