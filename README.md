@@ -44,7 +44,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <img height="75px" src="img/social/github.png">
             </td>
 
-        </tr>
+  </tr>
     </tbody>
  </table>
 
