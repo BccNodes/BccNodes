@@ -26,22 +26,22 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <td width="300px" align="center">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/bccnodes" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="img/social/twitter.png">
+            <img height="70px" src="twitter.png">
             </td>
             <td width="300px" align="center">
             <span><strong>Telegram</strong></span><br><br />
             <a href="https://t.me/berkcak" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="img/social/telegram.png">
+            <img height="70px" src="telegram.png">
             </td>
             <td width="300px" align="center">
               <span><strong>Mail</strong></span><br><br />
               <a href="mailto:contact@bccnodes.com" target="_blank" rel="noopener noreferrer">
-              <img height="75px" src="img/social/mail.png">
+              <img height="75px" src="mail.png">
               </td>
             <td width="300px" align="center">
             <span><strong>GitHub</strong></span><br><br />
             <a href="https://github.com/BccNodes" target="_blank" rel="noopener noreferrer">
-            <img height="75px" src="img/social/github.png">
+            <img height="75px" src="github.png">
             </td>
 
   </tr>
