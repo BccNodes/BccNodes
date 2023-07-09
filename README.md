@@ -40,7 +40,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
               </td>
             <td width="300px" align="center">
             <span><strong>Explorer</strong></span><br><br />
-            <a href="https://github.com/BccNodes" target="_blank" rel="noopener noreferrer">
+            <a href="https://explorer.bccnodes.com" target="_blank" rel="noopener noreferrer">
             <img height="75px" src="exp (1).png">
             </td>
 
