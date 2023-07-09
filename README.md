@@ -26,18 +26,24 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
             <td width="300px" align="center">
             <span><strong>Twitter</strong></span><br><br />
             <a href="https://twitter.com/bccnodes" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="twitter.png">
+            <img height="70px" src="img/social/twitter.png">
             </td>
             <td width="300px" align="center">
-            <span><strong>Website</strong></span><br><br />
-            <a href="https://bccnodes.com/" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="web.png">
+            <span><strong>Telegram</strong></span><br><br />
+            <a href="https://t.me/berkcak" target="_blank" rel="noopener noreferrer">
+            <img height="70px" src="img/social/telegram.png">
             </td>
             <td width="300px" align="center">
-            <span><strong>BccNodes Explorer</strong></span><br><br />
-            <a href="https://explorer.bccnodes.com/" target="_blank" rel="noopener noreferrer">
-            <img height="70px" src="exp (1).png">
+              <span><strong>Mail</strong></span><br><br />
+              <a href="mailto:contact@bccnodes.com" target="_blank" rel="noopener noreferrer">
+              <img height="75px" src="img/social/mail.png">
+              </td>
+            <td width="300px" align="center">
+            <span><strong>GitHub</strong></span><br><br />
+            <a href="https://github.com/BccNodes" target="_blank" rel="noopener noreferrer">
+            <img height="75px" src="img/social/github.png">
             </td>
+
         </tr>
     </tbody>
 </table>
