@@ -20,7 +20,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
 ## Social Media / Contact
 
-<table width="900px" align="center">
+      <table width="400px" align="center">
     <tbody>
         <tr valign="top">
             <td width="300px" align="center">
@@ -46,7 +46,7 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
 
         </tr>
     </tbody>
-</table>
+    </table>
 
 
 
