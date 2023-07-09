@@ -1,6 +1,6 @@
 # Welcome to BccNodes :wave:
 
-<img src="banner.png">
+<img src="Logo.png">
 
 <p align="center"> 
   Visitor count<br>
