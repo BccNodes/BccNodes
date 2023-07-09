@@ -39,9 +39,9 @@ I'm BccNodes. We provide reliable, professional validator service with best upti
               <img height="75px" src="mail.png">
               </td>
             <td width="300px" align="center">
-            <span><strong>GitHub</strong></span><br><br />
+            <span><strong>Explorer</strong></span><br><br />
             <a href="https://github.com/BccNodes" target="_blank" rel="noopener noreferrer">
-            <img height="75px" src="github.png">
+            <img height="75px" src="explorer.png">
             </td>
 
   </tr>
